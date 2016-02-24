@@ -1,9 +1,31 @@
-h1{
-
-}
-
-#homepage{
+.nav{
 	position: fixed;
-	top: 10px;
-	left: 10px;
+	top: 15px;
+	left: 25px;
 }
+
+.album-art{
+	margin-bottom: 20px;
+}
+
+.album-art img{
+	border: 1px solid white;
+}
+
+.album-art img, .soundcloud-album iframe{
+	width: 500px;
+	margin-left: 100px;
+}
+
+#oalbum{
+	position: fixed;
+	top: 180px;
+	left: 25px;
+}
+
+.other-albums{
+	position: fixed;
+	top: 200px;
+	left: 25px;
+}
+

@@ -7,9 +7,18 @@ body{
 	font-size: 20px;
 }
 
+ul{
+	list-style: none;
+	padding: 0;
+}
+
 .narrow-body{
 	width: 700px;
 	margin: 0 auto;
+}
+
+h1{
+	text-align: center;
 }
 
 h2{
