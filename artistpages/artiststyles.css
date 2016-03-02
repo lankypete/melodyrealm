@@ -1,0 +1,46 @@
+.nav{
+	position: fixed;
+	top: 15px;
+	left: 25px;
+}
+
+.nav li:not(:first-child) {
+    font-size: 16px;
+}
+
+#oartist{
+	position: fixed;
+	top: 180px;
+	left: 25px;
+}
+
+.other-artist{
+	position: fixed;
+	top: 200px;
+	left: 25px;
+	font-size: 16px;
+}
+
+.artist-box{
+	width: 100%;
+	height: 300px;
+	position: relative;
+}
+
+.artist-box h1{
+	text-align: left;
+	position: absolute;
+	font-size: 56px;
+	top: 25px;
+	margin: 0px;
+}
+
+.artist-box img{
+	height: 280px;
+	width: 300px;
+	margin-right: 0px;
+	position: absolute;
+	top: 10px;
+	left: 400px;
+}
+

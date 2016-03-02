@@ -123,3 +123,7 @@ header{
 .artist-list li{
 	padding: 0 25px 10px;
 }
+
+.paragraph{
+	margin: 10px;
+}
