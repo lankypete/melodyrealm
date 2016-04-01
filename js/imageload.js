@@ -3,7 +3,14 @@ var imageNames = [
   "mr2",
   "mr3",
   "artix",
-  "puar"
+  "puar",
+  "dlam",
+  "hi",
+  "mena",
+  "me",
+  "st",
+  "sg",
+  "coltc"
 ];
 
 
